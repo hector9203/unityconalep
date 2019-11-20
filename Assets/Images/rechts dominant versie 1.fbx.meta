@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: b181cb8dc6a465c40ad2d6735f012baf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aorta
+    100002: Avvalves
+    100004: Coronary_arteries
+    100006: Hart_basis
+    100008: Heartear
+    100010: Ligament
+    100012: Pulmonary_trunk
+    100014: //RootNode
+    100016: Valves
+    100018: Venous
+    100020: ZBrushDefault
+    400000: Aorta
+    400002: Avvalves
+    400004: Coronary_arteries
+    400006: Hart_basis
+    400008: Heartear
+    400010: Ligament
+    400012: Pulmonary_trunk
+    400014: //RootNode
+    400016: Valves
+    400018: Venous
+    400020: ZBrushDefault
+    2000000: ZBrushDefault
+    2100000: Venous
+    2100002: Hart_basis
+    2100004: Valves
+    2100006: Aorta
+    2100008: Avvalves
+    2100010: Ligament
+    2100012: Pulmonary_trunk
+    2100014: Heartear
+    2100016: Coronary_arteries
+    2300000: Aorta
+    2300002: Avvalves
+    2300004: Coronary_arteries
+    2300006: Hart_basis
+    2300008: Heartear
+    2300010: Ligament
+    2300012: Pulmonary_trunk
+    2300014: Valves
+    2300016: Venous
+    3300000: Aorta
+    3300002: Avvalves
+    3300004: Coronary_arteries
+    3300006: Hart_basis
+    3300008: Heartear
+    3300010: Ligament
+    3300012: Pulmonary_trunk
+    3300014: Valves
+    3300016: Venous
+    4300000: Venous
+    4300002: Hart_basis
+    4300004: Valves
+    4300006: Aorta
+    4300008: Avvalves
+    4300010: Ligament
+    4300012: Pulmonary_trunk
+    4300014: Heartear
+    4300016: Coronary_arteries
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
